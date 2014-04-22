@@ -27,7 +27,7 @@ public class calc2 extends JFrame{
 	      final CardLayout cardlayout = new CardLayout();
 	      final JFrame frame = new JFrame();
 	     
-	      frame.setSize(400,400);
+	      frame.setSize(1000,1000);
 	      frame.setLocationRelativeTo(null);
 	      frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 	      frame.setVisible(true);
